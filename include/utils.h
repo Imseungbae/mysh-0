@@ -2,7 +2,5 @@
 #define MYSH_UTILS_H_
 
 void mysh_parse_command(const char* command,
- 
-11                       int *argc, char*** argv);
-wow  wowowowowowowowowo`
+                       int *argc, char*** argv);
 #endif // MYSH_UTILS_H_
